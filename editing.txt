@@ -1,0 +1,4 @@
+editing
+
+<form action="UpdateDepartment" method="post"><input type="hidden" name="department_name" value="${department.getDeptId() }" /><button style="margin-right: 10px" class="btn btn-warning btn-sm" type="submit">Update</button></form>
+									        		<form action="RemoveDepartment" method="post"><input type="hidden" name="department_name" value="${department.getDeptId() }" /><button class="btn btn-danger btn-sm" type="submit">Remove</button></form>

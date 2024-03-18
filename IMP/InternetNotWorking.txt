@@ -1,0 +1,3 @@
+https://hydcp.cybage.com/connect/PortalMain
+
+click on this link if internet not working in rdp.
